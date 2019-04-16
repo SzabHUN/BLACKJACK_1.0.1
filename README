@@ -1,1 +1,3 @@
-The C# program is in its own branch
+Instructions:
+when the program starts, you will draw 2 cards automatically
+after that you can enter teyt "draw" or "d" to draw more cards, or "stop" to stop your turn
